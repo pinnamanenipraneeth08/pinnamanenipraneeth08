@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**pinnamanenipraneeth08/pinnamanenipraneeth08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+## 👋 Hi, I’m **Pinnamaneni Praneeth**<br><br>🎓 **B.Tech Computer Science Engineering (Cyber Security)**<br>📍 Vijayawada, Andhra Pradesh<br>💡 Passionate about **Cybersecurity, Software Development, Secure Application Development & Backend Systems**<br><br>---<br><br>## 🛡️ About Me<br><br>I’m an entry-level Computer Science undergraduate specializing in **Cyber Security**, with hands-on experience in building **secure web applications**, implementing **encryption**, and understanding **real-world security threats**.<br><br>I enjoy working on projects that combine **security, backend development, and problem-solving**, and I’m continuously learning industry best practices in **application security, and cloud-ready systems**.<br><br>---<br><br>## 🔐 Skills & Technologies<br><br>**Cybersecurity**<br><br>* Vulnerability Assessment & Basic Penetration Testing<br>* Incident Response <br>* Log Analysis, Digital Forensics (Basics)<br>* SIEM / EDR tools (Fundamentals), IAM<br><br>**Programming & Development**<br><br>* Python, Java (intermediate level), SQL<br>* Flask, REST APIs<br>* HTML, CSS, Bootstrap<br>* React (Learning)<br><br>**Databases**<br><br>* MySQL, PostgreSQL, SQLite<br><br>**Tools & Platforms**<br><br>* Nmap, Wireshark, Burp Suite, Metasploit (Basic)<br>* Hydra, VirusTotal<br>* Kali Linux, Ubuntu<br>* Git & GitHub<br><br>---<br><br>## 💻 Featured Projects<br><br>🔐 **Secure File Sharing System**<br><br>* AES encryption, role-based access control, MFA<br>* Secure session management and audit logging<br>* Python, Flask, PostgreSQL<br><br>📡 **IoT-Based Smart Wi-Fi Announcement System**<br><br>* ESP8266-based wireless announcement display<br>* Authenticated web interface for content control<br><br>📝 **Student Complaint Portal**<br><br>* Secure complaint registration & tracking system<br>* Role-based dashboards for students and admins<br><br>---<br><br>## 🏆 Certifications & Achievements<br><br>* Cisco – Introduction to Cybersecurity<br>* Cisco – Network Defense<br>* EC-Council – Digital Forensics<br>* GUVI (HCL & Google) – Advanced Cyber Security & Ethical Hacking<br>* Tata & Deloitte Cybersecurity Job Simulations (Forage)<br><br>📄 **Publications**<br><br>* *IoT-Based Smart Wi-Fi Announcement System* – IEEE ICICNIS 2024<br>* *Hybrid Cryptographic Framework for Secure File Distribution* – IEEE ICERECT 2025<br><br>## 🌐 Connect With Me<br><br>* 🌐 Portfolio: [praneeth-porfolio-main.vercel.app](https://praneeth-porfolio-main.vercel.app/)<br>* 💼 LinkedIn: [linkedin.com/in/pinnamaneni-praneeth](https://www.linkedin.com/in/pinnamaneni-praneeth/)<br>* 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1VGJwgTZnz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pinnamaneni.praneeth?igsh=YmwyOHg4MzVyNnVv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pinnamaneni-praneeth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/p_praneeth08) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@pinnamanenipraneeth0830) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinnamanenipraneeth08@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pinnamanenipraneeth08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pinnamanenipraneeth08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinnamanenipraneeth08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pinnamanenipraneeth08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pinnamanenipraneeth08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pinnamanenipraneeth08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
